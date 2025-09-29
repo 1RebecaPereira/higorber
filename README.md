@@ -2,7 +2,7 @@
 
 Sou Rebeca Pereira, estou no ensino médio técnico em Desenvolvimento de Sistemas, gosto da área mobile e desenvolvimento de design
 
-[![Linkedin Badge](https://www.linkedin.com/in/rebeca-pereira-de-souza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin Badge](https://www.linkedin.com/in/rebeca-pereira-de-souza/)
 [![Email Badge](beccasouza044@gmail.com)
 
 ---
